@@ -180,4 +180,4 @@ With the assistance of _Better Help_'s Educator Alliance Initiative, education p
 
 - [Mental Health Subreddit](https://www.reddit.com/r/mentalhealth/)
 
--[General Assembly Notes & Lessons](https://generalassemb.ly/)
+- [General Assembly Notes & Lessons](https://generalassemb.ly/)
